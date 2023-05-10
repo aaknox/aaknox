@@ -3,19 +3,22 @@
 ## Welcome to My GitHub Page
 
 - 🔭 I’m currently working on Java Full Stack Development!
-- 🌱 I’m currently learning Jenkins, React, Redux, and Mocha
-- 💬 Ask me about: JavaScript, SQL, C#, Java, and making other AWESOME web applications
-- ⚡ Fun fact: I also make video games in my spare time. 
+- 🌱 I’m currently learning automation testing (Selenium and Cucumber).
+- 💬 Ask me about: I am a performance-driven programmer with extensive expertise working with microservices and proven track success engineering customized solutions improving business processes.
+- 👯 I’m looking to collaborate on any ChatGPT open-source projects.
+- 🤔 I’m looking for help with finding my next developer job.
+- 💬 Ask me about microservices (I love creating them so much)
+- 📫 How to reach me: Please email to find out more information about me.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I also make video games in my spare time. I am also a devoted mother.
 
 ## ✨Here is where you can find me on the web✨ :
 
 🏡 [Portfolio][website] **|** 
-🐦 [Twitter][twitter] **|** 
 📫 [Email][email] **|**
 👔 [LinkedIn][linkedin]
 
 [website]: https://azhya-knox.netlify.app
-[twitter]: https://twitter.com/MommydevYt
 [email]: azhya.knox@gmail.com
 [linkedin]: https://www.linkedin.com/in/azhyaknox/
 

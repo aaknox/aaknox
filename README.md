@@ -10,15 +10,15 @@
 - 💬 Ask me about microservices (I love creating them so much)
 - 📫 How to reach me: Please email to find out more information about me.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I also make video games in my spare time. I am also a devoted mother.
+- ⚡ Fun fact: I make & play video games in my spare time. I am also a devoted mother.
 
 ## ✨Here is where you can find me on the web✨ :
 
-🏡 [Portfolio][website] **|** 
+<!-- 🏡 [Portfolio][website] **|**  -->
 📫 [Email][email] **|**
 👔 [LinkedIn][linkedin]
 
-[website]: https://azhya-knox.netlify.app
+<!-- [website]: https://azhya-knox.netlify.app -->
 [email]: azhya.knox@gmail.com
 [linkedin]: https://www.linkedin.com/in/azhyaknox/
 
